@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Tulsa Grass & Sod Farms Inc.",
+    "address": "13801 S Memorial Dr, Bixby, OK 74008, United States",
+    "phone": "+1 918-369-3661",
+    "website": "http://www.tulsagrass.com/",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4noeakJx-Ee1wTYkyKQSZZD6Df_3RJahul7aRhJiSxjeWj5Y9DlHY8iV0My5DB6TXrtOEN6MTOK4S1ZCB64PkF3g6fFYPUoQRD-0UuFPE_7MuPEPbG2g67wStHDLGwzfj0nQjTpo=s800",
+    "rating": 4.5,
+    "reviews_count": 37,
+    "latitude": 36.1011413,
+    "longitude": -118.1049944
+  },
+  {
+    "name": "American Sod Farms",
+    "address": "15507 Old Milky Way, Escondido, CA 92027, United States",
+    "phone": "+1 760-738-9112",
+    "website": "http://www.americansodfarms.com/",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNsIJ7d6kmmcwXpMJDTNOTQtM9e8isWhlR6KHsS=s800",
+    "rating": 4.5,
+    "reviews_count": 37,
+    "latitude": 33.0906437,
+    "longitude": -153.9213642
+  },
+  {
+    "name": "Liberty Sod Farms Inc",
+    "address": "52 Shades of Death Rd, Great Meadows, NJ 07838, United States",
+    "phone": "+1 908-637-4203",
+    "website": "https://libertysodfarm.com/",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipO8QY6K_aUpJr4SJ2tKytkQD9VzaNbi3EUv0LRj=s800",
+    "rating": 4.5,
+    "reviews_count": 37,
+    "latitude": 40.8952751,
+    "longitude": -111.8410415
+  },
+  {
+    "name": "Southland Sod Farms",
+    "address": "2599 Hueneme Rd, Oxnard, CA 93033, United States",
+    "phone": "+1 800-532-3489",
+    "website": "https://www.sod.com/",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipO1nk5xmqzTj_XJ9SuwQTV21cpaf1IvsL8dubX7=s800",
+    "rating": 4.5,
+    "reviews_count": 37,
+    "latitude": 34.1474851,
+    "longitude": -156.0542961
+  },
+  {
+    "name": "Valley Sod Farms",
+    "address": "3725 W Teco Ave UNIT 9, Las Vegas, NV 89118, United States",
+    "phone": "+1 702-645-4070",
+    "website": "http://www.valleysod.com/",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipNZbd-LwgTEyGsujmwRzSm6DEjUWwSzrb7J48Ya=s800",
+    "rating": 4.5,
+    "reviews_count": 37,
+    "latitude": 34.1474851,
+    "longitude": -156.0542961
+  },
+  {
+    "name": "Cash Sod Farm",
+    "address": "54757 11 Mile Rd, New Hudson, MI 48165, United States",
+    "phone": "+1 248-486-6340",
+    "website": "https://cashsodfarms.com/",
+    "image_url": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npsMn9QzaZTN5bEFcBrjhzahfaOlsWdUvDw-4sygjHnIjWVhHPa69KNY50atVheIaHeH8ARBETGJ5nm8-BBOdHGCqalAzzBO-rN2lLoC-nHhEXXTRXEsPfKBQcVOs9zlSEx-rN3-g=s800",
+    "rating": 4.5,
+    "reviews_count": 37,
+    "latitude": 42.4769497,
+    "longitude": -120.5052697
+  },
+  {
+    "name": "Valley Sod Farm Inc",
+    "address": "16405 Chase St, North Hills, CA 91343, United States",
+    "phone": "+1 818-892-7258",
+    "website": "https://www.valleysodla.com/",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipOoKtVo5b0Ih8STTwT0yd-vzZ2ZeaSaNBc6Njsy=s800",
+    "rating": 4.5,
+    "reviews_count": 37,
+    "latitude": 34.2250883,
+    "longitude": -155.4047373
+  },
+  {
+    "name": "Oliver Sod Farm",
+    "address": "23730 24 Mile Rd, Macomb, MI 48042, United States",
+    "phone": "+1 586-949-3000",
+    "website": "http://oliversodfarm.com/",
+    "image_url": "https://lh3.googleusercontent.com/p/AF1QipPbeGjZtM1LJoPYKhOzELl3MYo2q7Ii7eOJYimP=s800",
+    "rating": 4.5,
+    "reviews_count": 37,
+    "latitude": 42.6880264,
+    "longitude": -119.7848587
+  }
+]
